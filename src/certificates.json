@@ -1,0 +1,65 @@
+[
+  {
+    "id": "CERT-2026-182",
+    "studentName": "Anushka Singh",
+    "trainingDomain": "Data Analyst",
+    "certificateType": "Internship Certificate",
+    "role": "Data Analyst Intern",
+    "duration": "July 10, 2026 - August 10, 2026",
+    "issueDate": "2026-07-05"
+  },
+  {
+    "id": "CERT-2026-167",
+    "studentName": "Manish Chaudhary",
+    "trainingDomain": "Artificial Intelligence",
+    "certificateType": "Internship Certificate",
+    "role": "AI Research Intern",
+    "duration": "July 10, 2026 - August 10, 2026",
+    "issueDate": "2026-07-05"
+  },
+  {
+    "id": "CERT-2026-003",
+    "studentName": "Alex Johnson",
+    "trainingDomain": "Data Analyst",
+    "certificateType": "Letter of Recommendation",
+    "role": "Data Analyst Intern",
+    "duration": "March 2026 - August 2026",
+    "issueDate": "2026-03-10"
+  },
+  {
+    "id": "CERT-2026-004",
+    "studentName": "Sarah Williams",
+    "trainingDomain": "Others",
+    "certificateType": "Hackathon Certificate",
+    "role": "Security Analyst Intern",
+    "duration": "April 2026 - September 2026",
+    "issueDate": "2026-04-05"
+  },
+  {
+    "id": "CERT-2026-005",
+    "studentName": "Rahul Sharma",
+    "trainingDomain": "Python Developer",
+    "certificateType": "Internship Certificate",
+    "role": "Python Backend Intern",
+    "duration": "June 2026 - July 2026",
+    "issueDate": "2026-06-20"
+  },
+  {
+    "id": "CERT-2026-006",
+    "studentName": "Priya Verma",
+    "trainingDomain": "Web Developer",
+    "certificateType": "Internship Certificate",
+    "role": "Full Stack Intern",
+    "duration": "May 2026 - June 2026",
+    "issueDate": "2026-05-15"
+  },
+  {
+    "id": "CERT-2026-007",
+    "studentName": "Vikram Singh",
+    "trainingDomain": "Machine Learning",
+    "certificateType": "Internship Certificate",
+    "role": "ML Engineer Intern",
+    "duration": "August 2026 - September 2026",
+    "issueDate": "2026-08-01"
+  }
+]
