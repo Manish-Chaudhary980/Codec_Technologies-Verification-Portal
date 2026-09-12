@@ -18,6 +18,33 @@
     "issueDate": "2026-07-05"
   },
   {
+    "id": "CERT-2026-144",
+    "studentName": "Yash Vardhan",
+    "trainingDomain": "Artificial Intelligence",
+    "certificateType": "Internship Certificate",
+    "role": "AI Research Intern",
+    "duration": "July 11, 2026 - August 11, 2026",
+    "issueDate": "2026-03-10"
+  },
+  {
+    "id": "CERT-2026-157",
+    "studentName": "Aditya Rawat",
+    "trainingDomain": "Artificial Intelligence",
+    "certificateType": "Internship Certificate",
+    "role": "AI Research Intern",
+    "duration": "July 11, 2026 - August 11, 2026",
+    "issueDate": "2026-03-10"
+  },
+  {
+    "id": "CERT-2026-201",
+    "studentName": "Kamal Negi",
+    "trainingDomain": "Artificial Intelligence",
+    "certificateType": "Internship Certificate",
+    "role": "AI Research Intern",
+    "duration": "July 10, 2026 - August 10, 2026",
+    "issueDate": "2026-03-10"
+  },
+  {
     "id": "CERT-2026-003",
     "studentName": "Alex Johnson",
     "trainingDomain": "Data Analyst",
