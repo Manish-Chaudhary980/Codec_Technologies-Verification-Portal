@@ -18,6 +18,15 @@
     "issueDate": "2026-07-05"
   },
   {
+    "id": "CERT-2026-133",
+    "studentName": "Gaurav Shukla",
+    "trainingDomain": "Artificial Intelligence",
+    "certificateType": "Internship Certificate",
+    "role": "AI Research Intern",
+    "duration": "June 12, 2026 - July 12, 2026",
+    "issueDate": "2026-06-05"
+  },
+  {
     "id": "CERT-2026-189",
     "studentName": "Aryan Singh",
     "trainingDomain": "Artificial Intelligence",
